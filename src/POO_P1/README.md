@@ -1,3 +1,6 @@
+# Anotações sobre o curso
+
+
 Paradigma Procedural: Os procedimentos podem ser invocados durante a execução do 
 software e visam a reutilização do código em pontos diferentes do mesmo, 
 já que eles devem suportar a especificação de argumentos, variáveis locais, 
