@@ -1,3 +1,5 @@
+# Anotações sobre o curso
+
 Usando o '__' o atributo fica privado.
 Se usar apenas o _ o atributo fica protegido, mas quando usado sinaliza que deve ser 
 tratado como um atributo "privado", fazendo com que acessá-lo diretamente possa ser perigoso.
